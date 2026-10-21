@@ -1,0 +1,22 @@
+{
+  "name": "class-attendance-management-system",
+  "version": "1.0.0",
+  "description": "Full-stack Class Attendance Management System built with React, Vite, Node.js, Express, and MongoDB",
+  "scripts": {
+    "start": "node backend/server.js",
+    "seed": "node backend/seed.js",
+    "test": "node backend/test-suite.js",
+    "backend": "cd backend && npm run dev",
+    "frontend": "cd frontend && npm run dev"
+  },
+  "keywords": [
+    "attendance",
+    "management",
+    "react",
+    "express",
+    "mongodb",
+    "college-project"
+  ],
+  "author": "B.Tech CSE Student",
+  "license": "ISC"
+}
