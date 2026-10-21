@@ -4,10 +4,32 @@ A beginner-friendly, full-stack **Class Attendance Management System** designed 
 
 This project provides end-to-end role-based authentication, subject management, duplicate-safe class session attendance logging, student portals, defaulter shortage reporting, live dashboard analytics, and the consecutive classes stretch-goal calculation formula.
 
+## 🌐 Live Demo & Deployment Links
+
+| Service | Platform | URL |
+| :--- | :--- | :--- |
+| **Frontend Application** | Vercel | [https://ps-1-class-attendance-management-sy.vercel.app](https://ps-1-class-attendance-management-sy.vercel.app/) |
+| **Backend API Service** | Render | [https://ps1-class-attendance-management-system-1.onrender.com](https://ps1-class-attendance-management-system-1.onrender.com) |
+| **API Health Endpoint** | Render | [https://ps1-class-attendance-management-system-1.onrender.com/api/health](https://ps1-class-attendance-management-system-1.onrender.com/api/health) |
+
+---
+
+## 📸 Screenshots
+
+| 1. User Login | 2. Admin Dashboard |
+| :---: | :---: |
+| ![Login Page](screenshots/login-page.png) | ![Admin Dashboard](screenshots/admin-dashboard.png) |
+
+| 3. Subject Management |
+| :---: |
+| ![Subject Management](screenshots/subject-management.png) |
+
 ---
 
 ## 📑 Table of Contents
 
+- [Live Demo & Deployment Links](#-live-demo--deployment-links)
+- [Screenshots](#-screenshots)
 - [Key Features](#-key-features)
 - [System Architecture](#-system-architecture)
 - [Folder Structure](#-folder-structure)
