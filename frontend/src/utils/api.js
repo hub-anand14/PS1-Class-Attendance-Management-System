@@ -1,4 +1,4 @@
-const API_BASE_URL = import.meta.env.VITE_API_BASE_URL || 'https://ps1-class-attendance-management-system.onrender.com';
+const API_BASE_URL = import.meta.env.VITE_API_BASE_URL || 'https://ps1-class-attendance-management-system-1.onrender.com';
 
 export async function apiRequest(endpoint, options = {}) {
   const token = localStorage.getItem('token');
